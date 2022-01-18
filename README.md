@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolauJN
  - 🌱 Estou interesso em aprender Python.
-- 💞️ Buscando aprender novos conhecimentos.
+- 💞️  Em busca de novos conhecimento
 - 📫 Para mais informções , favor entrar em contato através do e-mail: nikolasjunionicolau@gmail.com
 
 <!---
